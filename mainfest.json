@@ -1,0 +1,26 @@
+{
+    "short_name": "Yahoo Finance",
+    "name": "Yahoo Finance - Business Finance, Stock Market, Quotes, News",
+    "icons": [
+        {
+            "src": "https://s.yimg.com/uc/fin/img/logo192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://s.yimg.com/uc/fin/img/logo300x300.png",
+            "type": "image/png",
+            "sizes": "300x300"
+        },
+        {
+            "src": "https://s.yimg.com/uc/fin/img/19/02/d408d9d.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#2196F3",
+    "theme_color": "#070f6c"
+  }
